@@ -1,0 +1,31 @@
+name: PetroDesk public tag discovery
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17,47 * * * *'
+permissions:
+  contents: write
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install --disable-pip-version-check -r requirements.txt
+      - name: Run offline self-tests
+        run: python -m unittest discover -s tests -v
+      - name: Try three public tag pages
+        run: python collector.py
+      - name: Save only public discovery metadata
+        run: |
+          git config user.name 'petrodesk-bot'
+          git config user.email 'petrodesk-bot@users.noreply.github.com'
+          git add docs/items.json docs/feed.xml docs/coverage_status.json
+          if ! git diff --staged --quiet; then
+            git commit -m 'Update public news discovery results'
+            git push
+          fi
