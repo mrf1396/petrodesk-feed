@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "generated_at": "2026-11-10T15:01:39+00:00",
+  "status": "no_live_access",
+  "sources": [
+    {
+      "tag": "پتروشیمی",
+      "status": "HTTP 403",
+      "count": 0,
+      "reason": "No retry or access bypass",
+      "url": "https://khabarfarsi.com/tags2/Eq4mnw==/%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C"
+    },
+    {
+      "tag": "صنعت پتروشیمی",
+      "status": "HTTP 403",
+      "count": 0,
+      "reason": "No retry or access bypass",
+      "url": "https://khabarfarsi.com/tags2/GaojkQ==/%D8%B5%D9%86%D8%B9%D8%AA_%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C"
+    },
+    {
+      "tag": "شرکت پتروشیمی",
+      "status": "HTTP 403",
+      "count": 0,
+      "reason": "No retry or access bypass",
+      "url": "https://khabarfarsi.com/tags2/F6og/%D8%B4%D8%B1%DA%A9%D8%AA_%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C"
+    }
+  ],
+  "items": []
+}
