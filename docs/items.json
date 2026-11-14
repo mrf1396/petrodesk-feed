@@ -1,29 +1,2212 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T19:47:53+00:00",
-  "status": "no_live_access",
+  "generated_at": "2026-11-14T20:45:00+00:00",
+  "status": "ok",
   "sources": [
     {
       "tag": "پتروشیمی",
-      "status": "HTTP 403",
-      "count": 0,
-      "reason": "No retry or access bypass",
+      "status": "ok",
+      "count": 59,
+      "reason": "Extracted canonical /u/ news links",
       "url": "https://khabarfarsi.com/tags2/Eq4mnw==/%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C"
     },
     {
       "tag": "صنعت پتروشیمی",
-      "status": "HTTP 403",
-      "count": 0,
-      "reason": "No retry or access bypass",
+      "status": "ok",
+      "count": 60,
+      "reason": "Extracted canonical /u/ news links",
       "url": "https://khabarfarsi.com/tags2/GaojkQ==/%D8%B5%D9%86%D8%B9%D8%AA_%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C"
     },
     {
       "tag": "شرکت پتروشیمی",
-      "status": "HTTP 403",
-      "count": 0,
-      "reason": "No retry or access bypass",
+      "status": "ok",
+      "count": 61,
+      "reason": "Extracted canonical /u/ news links",
       "url": "https://khabarfarsi.com/tags2/F6og/%D8%B4%D8%B1%DA%A9%D8%AA_%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C"
     }
   ],
-  "items": []
+  "items": [
+    {
+      "id": "116a92aa58cb9649",
+      "title": "مزیت های پتروشیمی خلیج فارس در اقتصاد ایران؛ از ارزآوری تا رونق تولید داخلی",
+      "url": "https://khabarfarsi.com/u/264404129",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "de793b47d8675749",
+      "title": "جمشیدی: حمایت پتروشیمی نوری از نخبگان دانشگاهی با قدرت ادامه دارد",
+      "url": "https://khabarfarsi.com/u/264404082",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "06ce63fa0982e818",
+      "title": "ایران خودرو به سوالات بورس درباره واگذاری سهام سپهر کیش پاسخ داد",
+      "url": "https://khabarfarsi.com/u/264403918",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "fb02d0b1b01ad030",
+      "title": "توقف تولید پتروپالایش کنگان فنی نیست؛ تابان فردا از برنامه افزایش سرمایه و ...",
+      "url": "https://khabarfarsi.com/u/264403050",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "a2fdb0e04b73db0d",
+      "title": "چهار رکورد تازه در خانواده تاپیکو؛ از جایگاه جهانی بارز تا جهش تولید PVC ...",
+      "url": "https://khabarfarsi.com/u/264401496",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "4bc954d75afa19de",
+      "title": "ویدئو/ 60 ثانیه با خلیج فارس: 23 آبان 1405",
+      "url": "https://khabarfarsi.com/u/264400556",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "b039095a5176f047",
+      "title": "11 صف خرید متوالی برای شتبریز؛ بازدهی سهام پتروشیمی تبریز به 38 درصد رسید",
+      "url": "https://khabarfarsi.com/u/264400203",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "d3f48a34a019c075",
+      "title": "کسب 9 مدال در مسابقات بریکس 2026؛ ثمره پیوند صنعت و دانشگاه",
+      "url": "https://khabarfarsi.com/u/264398820",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "ceb4eb52c316efa0",
+      "title": "بازدید رئیس کل بانک مرکزی از پالایشگاه چهارم پارس جنوبی، مجتمع مبین انرژی ...",
+      "url": "https://khabarfarsi.com/u/264397624",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "976d9019d49d64e9",
+      "title": "امضای تفاهم نامه همکاری بین پیدمکو و شرکت توربین خلیج فارس",
+      "url": "https://khabarfarsi.com/u/264391821",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "e525d51db9d7e2ca",
+      "title": "خبر گزاری پتروشیمی ایران ایپنا",
+      "url": "https://khabarfarsi.com/u/264395119",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "11419e5adbf8dd45",
+      "title": "بازسازی پالایشگاه های گازی آسیب دیده 3 شیفته دنبال می شود",
+      "url": "https://khabarfarsi.com/u/264389899",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "f1431cb7765b5655",
+      "title": "ورود جم پیلن به سرمایه گذاری فناورانه؛ توافق سه جانبه برای تأسیس صندوق CVC",
+      "url": "https://khabarfarsi.com/u/264386772",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "1dd4bf3ce4808d79",
+      "title": "دکتر سید میراحمد فاطمی مدیرعامل گروه سرمایه گذاری غدیر شد",
+      "url": "https://khabarfarsi.com/u/264385357",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "a271aece558bd285",
+      "title": "اثر پژوهشگر پتروشیمی اروند درباره تحول دیجیتال و هوش مصنوعی منتشر شد",
+      "url": "https://khabarfarsi.com/u/264385351",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "441daa3c78483aad",
+      "title": "قیمت جدید بنزین سوپر: هر لیتر بین 103 تا 110 هزار تومان!",
+      "url": "https://khabarfarsi.com/u/264383331",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "b862a449cb14a35e",
+      "title": "فروش اوره با نرخ رقابتی، توان پتروشیمی مسجدسلیمان برای پرداخت اقساط ...",
+      "url": "https://khabarfarsi.com/u/264381969",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "2a45aa06e41b498f",
+      "title": "هشدار اقتصاددان ایرانی: موج بیکاری در راه است",
+      "url": "https://khabarfarsi.com/u/264379600",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "07cac82798409212",
+      "title": "بازدید رئیس کل دادگستری فارس از پتروشیمی شیراز؛ سرنوشت واحد آسیب دیده چه ...",
+      "url": "https://khabarfarsi.com/u/264377614",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "687633235051eed7",
+      "title": "افزایش 100 درصدی سرمایه پتروشیمی بوعلی سینا تصویب شد؛ سرمایه بوعلی به 4 ...",
+      "url": "https://khabarfarsi.com/u/264377612",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی",
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "0b4a620dd8a9ae4b",
+      "title": "پیشنهاد افزایش سرمایه 100 درصدی بوعلی",
+      "url": "https://khabarfarsi.com/u/264376082",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی",
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "f51f5a5dfbda98df",
+      "title": "ظرفیت ویژه صنایع مادر خراسان شمالی برای تولید تجهیزات پزشکی",
+      "url": "https://khabarfarsi.com/u/264375527",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "d58458d702981e2a",
+      "title": "سرمایه بوعلی دو برابر می شود/تصویب افزایش سرمایه در هیأت مدیره",
+      "url": "https://khabarfarsi.com/u/264375128",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی",
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "39cc8cfc8a9dbf48",
+      "title": "توقف تولید در زاگرس به دلیل سرما",
+      "url": "https://khabarfarsi.com/u/264375111",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی",
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "87331d535eebc66f",
+      "title": "فولاد مبارکه 18 هزار میلیارد تومان معامله کرد",
+      "url": "https://khabarfarsi.com/u/264373306",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "fa7957795a9f04c9",
+      "title": "ضرغام بهروزی مدیر طرح های توسعه آریاساسول شد",
+      "url": "https://khabarfarsi.com/u/264372644",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "ea81a5fe0f0898bf",
+      "title": "کسب مقام جهانی تیم دیجی نوری در مسابقات بین المللی فناوری های پیشرفته ...",
+      "url": "https://khabarfarsi.com/u/264372637",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "653797db2e3c87ed",
+      "title": "ثبت رکورد تولید پلی پروپیلن و بومی سازی تجهیزات در دو مجتمع پتروشیمی ایلام",
+      "url": "https://khabarfarsi.com/u/264372599",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "2a903dac6b410393",
+      "title": "بازدید مهم رئیس کل دادگستری فارس از پتروشیمی شیراز؛ سرنوشت واحد آسیب دیده ...",
+      "url": "https://khabarfarsi.com/u/264372269",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "a5fb7163357fb3b5",
+      "title": "توقف تولید واحد اول پتروشیمی زاگرس",
+      "url": "https://khabarfarsi.com/u/264371598",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی",
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "58bf2ea6626172f7",
+      "title": "شوک گازی به پتروشیمی زاگرس؛ تولید واحد اول متوقف شد، زمان بازگشت نامشخص!",
+      "url": "https://khabarfarsi.com/u/264370843",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "abfdb3de0e17c5b1",
+      "title": "موج گسترده توقف در بورس و فرابورس؛ معاملات 16 نماد متوقف شد",
+      "url": "https://khabarfarsi.com/u/264369990",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "347bf1a4e46926a0",
+      "title": "هشدار مجلس درباره پتروشیمی های جنگ زده؛ بازگشت واحدهای آسیب دیده به تولید ...",
+      "url": "https://khabarfarsi.com/u/264369198",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "ef0a81edb340015e",
+      "title": "تفاهم سه جانبه جم پیلن، پتروشمیران و پژوهشگاه پلیمر برای تأسیس صندوق ...",
+      "url": "https://khabarfarsi.com/u/264367964",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "48d611d093d6c8bb",
+      "title": "پایگاه خبری جنوب استان بوشهر",
+      "url": "https://khabarfarsi.com/u/264368080",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی",
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "e91734182ac0b59b",
+      "title": "عارضه یابی منابع انسانی در صنعت پتروشیمی؛ از مدیریت اداری نیروی انسانی تا ...",
+      "url": "https://khabarfarsi.com/u/264367059",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "b7c14fd9eff36424",
+      "title": "تأمین مالی پتروشیمی ها مسیر بازسازی و تولید را هموار می کند",
+      "url": "https://khabarfarsi.com/u/264367057",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "c3b14a9f728e8725",
+      "title": "رکورد تاریخی تولید روزانه محصول اوره گرانول در صنایع پتروشیمی مسجدسلیمان",
+      "url": "https://khabarfarsi.com/u/264364606",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "831948d296f20422",
+      "title": "برگزاری دوره گزارش نویسی فنی در پتروشیمی تبریز",
+      "url": "https://khabarfarsi.com/u/264362972",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "54d107ac0ac3ca2c",
+      "title": "شتاب صعودی شتبریز ادامه دارد؛ بازدهی سهام پتروشیمی تبریز در آستانه 40 درصد",
+      "url": "https://khabarfarsi.com/u/264362137",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "1217132fec709de4",
+      "title": "تبدیل ضایعات پلی استر به مواد اولیه؛ دستاورد تازه صنعت پتروشیمی ایران",
+      "url": "https://khabarfarsi.com/u/264361766",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی",
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "9d88179fd060dcda",
+      "title": "دیجی نوری با 9 مدال در صدر بخش بین المللی رقابت های بریکس 2026",
+      "url": "https://khabarfarsi.com/u/264360728",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی",
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "0b97007e038a59d7",
+      "title": "شتاب در اجرای پروژه کولینگ هیبریدی پتروشیمی تبریز؛ گامی راهبردی برای کاهش ...",
+      "url": "https://khabarfarsi.com/u/264360492",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "76863f920569044a",
+      "title": "قدردانی مدیرکل روابط عمومی وزارت نفت از مدیرعامل سازمان منطقه ویژه اقتصادی ...",
+      "url": "https://khabarfarsi.com/u/264360174",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "c98c4c0911d55111",
+      "title": "گزارش رصد روزانه صنعت پتروشیمی جهان در 24 ساعت منتهی به 23 آبان 1405",
+      "url": "https://khabarfarsi.com/u/264360087",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی",
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "b258b10f42b40848",
+      "title": "کسب سه عنوان برتر در رقابت های لیگ برتر جاده و کوهستان",
+      "url": "https://khabarfarsi.com/u/264360001",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "e71f6300662b3966",
+      "title": "رسانه مسئولیت اجتماعی",
+      "url": "https://khabarfarsi.com/u/264340437",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "79c39323e872670a",
+      "title": "پتروشیمی آبادان در مسیر احیا",
+      "url": "https://khabarfarsi.com/u/264358571",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "6895a11ecbc24a05",
+      "title": "بازدید رئیس کل دادگستری استان فارس از مجتمع پتروشیمی شیراز",
+      "url": "https://khabarfarsi.com/u/264358490",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "3a245813cdf13ed8",
+      "title": "معاملات بورس کالا از 3 میلیون تن عبور کرد؛ جزئیات فروش محصولات",
+      "url": "https://khabarfarsi.com/u/264358487",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "a06b11d5fc2e4beb",
+      "title": "پتروشیمی مرجان مصرف انرژی تولید متانول را به زیر 28 گیگاژول کاهش داد",
+      "url": "https://khabarfarsi.com/u/264358166",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی",
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "80a2ef5c046087d0",
+      "title": "خبرگزاری پتروشیمی نیوز",
+      "url": "https://khabarfarsi.com/u/264250371",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی",
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "f1410c09f321a42d",
+      "title": "محدودیت گاز و برودت هوا عملیات واحد اول زاگرس را متوقف کرد",
+      "url": "https://khabarfarsi.com/u/264358040",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی",
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "27d035d74adef5e2",
+      "title": "بهکیش: برخی پتروشیمی ها به زودی مجبور به توقف کامل تولید می شوند | سیل ...",
+      "url": "https://khabarfarsi.com/u/264357761",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "25a24b708a5cfce1",
+      "title": "اختلاف 24 درجه ای دمای کمینه و بیشینه در گلستان",
+      "url": "https://khabarfarsi.com/u/264407483",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی",
+        "صنعت پتروشیمی",
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "cccdfe23d19d51c7",
+      "title": "هوای تهران در وضعیت قرمز؛ آلودگی برای همه گروه ها ناسالم شد + عکس",
+      "url": "https://khabarfarsi.com/u/264405156",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی",
+        "صنعت پتروشیمی",
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "9c7058ec9d1530e1",
+      "title": "کیفیت هوای تهران قرمز شد؛ شاخص آلودگی به 171 رسید",
+      "url": "https://khabarfarsi.com/u/264405016",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی",
+        "صنعت پتروشیمی",
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "dbc5a36290d428ce",
+      "title": "سامانه بارشی جدید در راه 12 استان؛ هشدار بارش برف و سرما به کشاورزان",
+      "url": "https://khabarfarsi.com/u/264404740",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی",
+        "صنعت پتروشیمی",
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "68137435322d4aad",
+      "title": "صدور هشدار سطح زرد برای گلستان",
+      "url": "https://khabarfarsi.com/u/264404414",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی",
+        "صنعت پتروشیمی",
+        "پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "eb414859b85a1759",
+      "title": "اثر پژوهشگر پتروشیمی اروند درباره تحول دیجیتال و هوش مصنوعی منتشر شد",
+      "url": "https://khabarfarsi.com/u/264399090",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی",
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "d2104e63b13d6f4d",
+      "title": "تأمین مالی پتروشیمی ها مسیر بازسازی و تولید را هموار می کند",
+      "url": "https://khabarfarsi.com/u/264352888",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "ebd76ab3d265d864",
+      "title": "اتحادیه طلا،جواهر و سکه تهران",
+      "url": "https://khabarfarsi.com/u/264354945",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "92ce77fd561c8f83",
+      "title": "شیردل قائم مقام نفت ایرانول شد",
+      "url": "https://khabarfarsi.com/u/264326901",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "7bb5eec30a4cf32e",
+      "title": "پایان جنگ، بازگشت مشتریان صادراتی ایران را تضمین می کند؟",
+      "url": "https://khabarfarsi.com/u/264325397",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "3451a990e3d0d88d",
+      "title": "اختصاصی / پایان موفقیت آمیز حضور پتروشیمی زاگرس در نمایشگاه بین المللی ...",
+      "url": "https://khabarfarsi.com/u/264316578",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "6616c0b49632098e",
+      "title": "پتروفن 1405 | پیشگامی شرکت های دانش بنیان برای رفع نیازهای فناورانه صنعت ...",
+      "url": "https://khabarfarsi.com/u/264308274",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "86c721baecc5ff7a",
+      "title": "خبرگزاری صدا و سیما",
+      "url": "https://khabarfarsi.com/u/262745039",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "91d5ef643eee8249",
+      "title": "تحریم ها مانع نشد؛ نخستین خط بارگیری تمام اتوماتیک پتروشیمی در کنگان راه ...",
+      "url": "https://khabarfarsi.com/u/264307627",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "7d6c97776d7f16cf",
+      "title": "راه اندازی نخستین خط بارگیری تمام اتوماتیک در پتروپالایش کنگان",
+      "url": "https://khabarfarsi.com/u/264302999",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "367c1424cc3b5754",
+      "title": "صادرات پتروشیمی ایران قربانی توسعه ظرفیت چین می شود؟",
+      "url": "https://khabarfarsi.com/u/264284097",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "1cbb888d5e98efaa",
+      "title": "12 جوان نخبه پتروشیمی نوری 9 مدال جهانی بریکس را به ایران آوردند/ جزئیات",
+      "url": "https://khabarfarsi.com/u/264281936",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "c46fdc1c94f884ce",
+      "title": "چشم انداز پرتفوی پتروشیمی؛ چارچوبی برای مدیریت یکپارچه 60 طرح صنعت ...",
+      "url": "https://khabarfarsi.com/u/264276587",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "326275744e2fe743",
+      "title": "تشکیل کارگروه برای رفع چالش های صنعت پتروشیمی",
+      "url": "https://khabarfarsi.com/u/264270729",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "80e00a9bd078eb97",
+      "title": "50 شرکت فناور برای همکاری با صنعت پتروشیمی ارزیابی شدند",
+      "url": "https://khabarfarsi.com/u/264231136",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "033c38131e2aa523",
+      "title": "دوقلوی دیجیتال؛ مسیر تازه هلدینگ PIIC برای تحول فناوری در صنعت پتروشیمی",
+      "url": "https://khabarfarsi.com/u/264161219",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "8d767256662398e0",
+      "title": "تأکید مدیرعامل تاپیکو بر اصلاح ساختار سهامداری و تسهیل تأمین ارز زنجیره ...",
+      "url": "https://khabarfarsi.com/u/264160287",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "c50729410aa163a1",
+      "title": "5 گام مهم برای حل مشکلات صنعت پتروشیمی",
+      "url": "https://khabarfarsi.com/u/264154089",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "475e40e2bfc0540d",
+      "title": "سودآوری 2 درصدی صنعت فولاد در سال جاری",
+      "url": "https://khabarfarsi.com/u/264135091",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "14c68177cfd59d76",
+      "title": "گزارش رصد روزانه صنعت پتروشیمی جهان در 24 ساعت منتهی به 21 آبان 1405",
+      "url": "https://khabarfarsi.com/u/264125693",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "4a08cb063c7f64df",
+      "title": "ضرورت های ساختاری در واگذاری پتروشیمی آبادان",
+      "url": "https://khabarfarsi.com/u/264124644",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "3c5f824d7317acf2",
+      "title": "ویدئو/ برگزاری پتروفن 1405 در قطب پتروشیمی ایران – ایستگاه بعد تبریز",
+      "url": "https://khabarfarsi.com/u/264111652",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "862ebc85e46a8879",
+      "title": "قسمت هشتاد و سوم برنامه آنتراک؛ مرور خبرهای صنعت پتروشیمی در اوقات فراغت",
+      "url": "https://khabarfarsi.com/u/264110439",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "8077e9e5aaaaee03",
+      "title": "بازسازی صنعت پتروشیمی پس از جنگ رمضان؛ پیدمکو از پروژه های منطقه ویژه ...",
+      "url": "https://khabarfarsi.com/u/264101832",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "b66f3737fb47d35d",
+      "title": "خبر گزاری پتروشیمی ایران ایپنا",
+      "url": "https://khabarfarsi.com/u/264033806",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "24cb748619f7e2bd",
+      "title": "عملکرد هلدینگ خلیج فارس کرسنت 2 است، نه پرونده مهر!",
+      "url": "https://khabarfarsi.com/u/264094587",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "bd3f19789abafe8d",
+      "title": "نشست هم اندیشی مدیران عامل هلدینگ های صنعت پتروشیمی",
+      "url": "https://khabarfarsi.com/u/264057056",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "06c7096468fd15c9",
+      "title": "بررسی و رفع چالش های صنعت پتروشیمی با هم افزایی شرکت ملی صنایع پتروشیمی و ...",
+      "url": "https://khabarfarsi.com/u/264028743",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "3d5a32fe97cd09b7",
+      "title": "اندر احوالات این روزهای شرکتی که روزی، نگین درخشان صنعت پتروشیمی بود!",
+      "url": "https://khabarfarsi.com/u/264020047",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "4ce91a2e21c6dc2c",
+      "title": "هند به دنبال تحقق هدف ارزش یک تریلیون دلاری صنایع پتروشیمی",
+      "url": "https://khabarfarsi.com/u/264017922",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "c6ddc55825cf31a6",
+      "title": "گزارش رصد روزانه صنعت پتروشیمی جهان در 24 ساعت منتهی به 20 آبان 1405",
+      "url": "https://khabarfarsi.com/u/263987635",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "9681e6ce3d8f0dfe",
+      "title": "شناسایی 282 پروژه فناورانه برای پاسخ به نیازهای صنعت پتروشیمی",
+      "url": "https://khabarfarsi.com/u/263980325",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "130a877281a700d9",
+      "title": "هشدار درباره زمستان پیش رو؛ هوای آلوده تر در راه است؟/ حمید حسینی: چاره ای ...",
+      "url": "https://khabarfarsi.com/u/263952302",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "ee0da0cf9d8f8e15",
+      "title": "گام رادیناس برای شناسایی و سرمایه گذاری در راهکارهای دوقلوی دیجیتال صنعت ...",
+      "url": "https://khabarfarsi.com/u/263895025",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "1b52eafc43be518d",
+      "title": "قطب پتروشیمی ایران میزبان پتروفن 1405؛ پیشگامی شرکت های دانش بنیان برای ...",
+      "url": "https://khabarfarsi.com/u/263890378",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "0e4e767e3702d577",
+      "title": "پتروشیمی خارک و فن آوران، نمایندگان تاپیکو در نمایشگاه بین المللی واردات ...",
+      "url": "https://khabarfarsi.com/u/263887570",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "a8ac62786367b309",
+      "title": "توسعه همکاری های ایران و چین در سرمایه گذاری و تأمین مالی صنعت پتروشیمی",
+      "url": "https://khabarfarsi.com/u/263882699",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "d5994428060fbcbc",
+      "title": "پتروفن 1405 در اهواز؛ صنعت پتروشیمی به دنبال راه حل های فناورانه داخلی",
+      "url": "https://khabarfarsi.com/u/263882032",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "1c0a358d8d4d5779",
+      "title": "خوزستان باید به قطب فناوری و نوآوری صنعت پتروشیمی کشور تبدیل شود",
+      "url": "https://khabarfarsi.com/u/263881848",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "36e346e9be76b8f9",
+      "title": "ابلاغ دستورالعمل تداوم تولید و کاهش مخاطرات صنعت پتروشیمی در شرایط مختلف ...",
+      "url": "https://khabarfarsi.com/u/263859288",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "0243d852d3e7a0de",
+      "title": "گزارش رصد روزانه صنعت پتروشیمی جهان در 24 ساعت منتهی به 19 آبان 1405",
+      "url": "https://khabarfarsi.com/u/263856034",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "c9169cc43b72d478",
+      "title": "پتروشیمی خارک و فن آوران، نمایندگان تاپیکو در بزرگ ترین رویداد تجاری چین",
+      "url": "https://khabarfarsi.com/u/263840341",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی",
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "36609b0e0889670e",
+      "title": "پایگاه خبری جنوب استان بوشهر",
+      "url": "https://khabarfarsi.com/u/263838459",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی",
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "ee7cb5807d4a12ac",
+      "title": "پتروشیمی ها باید به شریک راهبردی امنیت برق کشور تبدیل شوند",
+      "url": "https://khabarfarsi.com/u/263811555",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "56ef759501a26c1c",
+      "title": "یک نماد جدید از صنعت پتروشیمی به بازار اصلی فرابورس آمد",
+      "url": "https://khabarfarsi.com/u/263776485",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی",
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "ab868bd63b8bb437",
+      "title": "پتروشیمی جم در شانگهای؛ نهایی شدن مذاکرات فنی تعویض مشعل های کوره های ...",
+      "url": "https://khabarfarsi.com/u/263764726",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "0b1d768db63cf9e3",
+      "title": "پایگاه خبری جنوب استان بوشهر",
+      "url": "https://khabarfarsi.com/u/263731435",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "4aba9a270be6fcc7",
+      "title": "بازدید سفیر جمهوری اسلامی ایران در چین از غرفه پتروشیمی زاگرس",
+      "url": "https://khabarfarsi.com/u/263763959",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "cc366fef777b6fad",
+      "title": "گزارش رصد روزانه صنعت پتروشیمی جهان در 24 ساعت منتهی به 18 آبان 1405",
+      "url": "https://khabarfarsi.com/u/263753672",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "4afa396bacfe2ab4",
+      "title": "پتروفن 1405 فردا در خوزستان آغاز می شود",
+      "url": "https://khabarfarsi.com/u/263748268",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "0e0e1bffa7c24226",
+      "title": "مسیر تازه پتروشیمی ها برای نجات تولید؛ صرفه جویی مردم، سوخت صنایع می شود؟",
+      "url": "https://khabarfarsi.com/u/263741576",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "e96cdba28a252f99",
+      "title": "مسیر تازه پتروشیمی ها برای تامین گاز مورد نیاز تولید",
+      "url": "https://khabarfarsi.com/u/263729748",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "d83176f2d8c5da01",
+      "title": "مسیر تازه پتروشیمی ها برای تامین گاز مورد نیاز تولید",
+      "url": "https://khabarfarsi.com/u/263719013",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "صنعت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "7ab47a24475c6a67",
+      "title": "برگزاری دوره گزارش نویسی فنی در پتروشیمی تبریز",
+      "url": "https://khabarfarsi.com/u/264363069",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "0a1cb3b891287d96",
+      "title": "سهام دار پروژه های بزرگ پتروشیمی قزاقستان در فهرست تحریم های انگلیس",
+      "url": "https://khabarfarsi.com/u/264348871",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "ac3297bb15780bb4",
+      "title": "دیجی نوری با 9 مدال در صدر بخش بین المللی رقابت های بریکس 2026",
+      "url": "https://khabarfarsi.com/u/264324520",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "ee8f92b3c473b7d4",
+      "title": "پتروشیمی امیرکبیر زیر ذره بین بازارنگار",
+      "url": "https://khabarfarsi.com/u/264298084",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "021463e7a6ae29ad",
+      "title": "دستاورد جهانی تیم دیجی نوری پتروشیمی نوری در بخش بین المللی مسابقات فناوری ...",
+      "url": "https://khabarfarsi.com/u/264275483",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "8542d3917f4facbb",
+      "title": "پیروزی حقوقی اروند؛ حکم قطعی محکومیت شرکت بازرگانی پتروشیمی صادر شد",
+      "url": "https://khabarfarsi.com/u/264119590",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "c99eabdf628d9aee",
+      "title": "پیروزی بزرگ حقوقی پتروشیمی اروند؛ محکومیت بازرگانی پتروشیمی به پرداخت ...",
+      "url": "https://khabarfarsi.com/u/264109356",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "b5953d845b142c13",
+      "title": "مدیرعامل پتروشیمی خارک از آخرین وضعیت تولید، صادرات و پروژه های توسعه ای ...",
+      "url": "https://khabarfarsi.com/u/264049249",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "7e72e79422c8499e",
+      "title": "پتروشیمی جم در نمایشگاه واردات شانگهای؛ توسعه صادرات با تمرکز بر سودآوری ...",
+      "url": "https://khabarfarsi.com/u/264025445",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "c4ee082a713b8dd8",
+      "title": "رأی قطعی به نفع اروند ؛ بازرگانی پتروشیمی به پرداخت مطالبات ارزی و ریالی ...",
+      "url": "https://khabarfarsi.com/u/264022140",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "7e59424c75dd49b8",
+      "title": "کنفرانس آنلاین تابان 1405 | پیش بینی سود، افزایش سرمایه و بازگشایی نماد ...",
+      "url": "https://khabarfarsi.com/u/264015370",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "50739cde6e850f59",
+      "title": "گشایش اعتبار اسنادی 3 همتی بانک مسکن بوشهر برای پتروشیمی پارس",
+      "url": "https://khabarfarsi.com/u/263986431",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "850722ee0af34a5e",
+      "title": "رشد 12 برابری اسید استیک تولیدی شرکت زیرمجموعه شستا طی یک سال/ در بورس ...",
+      "url": "https://khabarfarsi.com/u/263975050",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "e160abf2ea7c5718",
+      "title": "افتخارآفرینی فرزندان شرکت پتروشیمی رازی در مسابقات بسکتبال قهرمانی کشور / ...",
+      "url": "https://khabarfarsi.com/u/263914201",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "4b9e0e15214ec9a0",
+      "title": "پتروشیمی امیرکبیر رسماً وارد بازار دوم فرابورس ایران شد",
+      "url": "https://khabarfarsi.com/u/263907658",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "b03aa840f9ba7cd7",
+      "title": "بازبینی ایمنی پیش از راه اندازی (PSSR)؛ گامی راهبردی در مسیر تولید ایمن و ...",
+      "url": "https://khabarfarsi.com/u/263902717",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "c3b1bafb02e0871e",
+      "title": "خبر گزاری پتروشیمی ایران ایپنا",
+      "url": "https://khabarfarsi.com/u/261651389",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "36dcd565ded01644",
+      "title": "تعهد زیست محیطی پتروشیمی سبلان پیش از بهره برداری کامل از سایت دو محقق شد",
+      "url": "https://khabarfarsi.com/u/263893798",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "ef3bc3e030b3fac3",
+      "title": "پایان شش روز حضور پتروشیمی زاگرس در CIIE؛ غول متانول جهان در مسیر بازارهای ...",
+      "url": "https://khabarfarsi.com/u/263889449",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "198fc21bf5fa838a",
+      "title": "شفاف سازی جامع شخارک پس از رشد 50 درصدی قیمت سهام",
+      "url": "https://khabarfarsi.com/u/263888138",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "0786a57fb4f6dffe",
+      "title": "پاکسازی ساحل بنود با حمایت پتروشیمی مروارید و مشارکت ظرفیت های محلی+?تصاویر",
+      "url": "https://khabarfarsi.com/u/263875247",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "330b94ca24bc8381",
+      "title": "بازطراحی و راه اندازی مبدل حرارتی واحد LIST در پتروشیمی کارون",
+      "url": "https://khabarfarsi.com/u/263868144",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "1f2abf8df38883da",
+      "title": "خبر گزاری پتروشیمی ایران ایپنا",
+      "url": "https://khabarfarsi.com/u/263795417",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "bbcade9cf32f812a",
+      "title": "جزییات عرضه بلوک سهام شرکت صنایع پتروشیمی خلیج فارس",
+      "url": "https://khabarfarsi.com/u/263853900",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "635ea5b7abd80789",
+      "title": "توقف 2 روزه نماد شیراز",
+      "url": "https://khabarfarsi.com/u/263850212",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "09ab87caa4d94b0c",
+      "title": "عرضه 0.41 درصد فارس توسط کرماشا",
+      "url": "https://khabarfarsi.com/u/263850210",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "3ba050670f75f17a",
+      "title": "شپدیس 46 میلیارد سهم فارس را حراج می کند",
+      "url": "https://khabarfarsi.com/u/263847413",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "0b790922ead86ec6",
+      "title": "فروش 46 میلیارد سهم فارس توسط شپدیس",
+      "url": "https://khabarfarsi.com/u/263840291",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "d496253f366edaeb",
+      "title": "سفیر جمهوری اسلامی ایران در چین از غرفه پتروشیمی زاگرس بازدید کرد",
+      "url": "https://khabarfarsi.com/u/263797813",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "059ed980c58bcd6f",
+      "title": "درخشش تیم دوچرخه سواری پتروشیمی تبریز در مرحله پایانی لیگ برتر جاده کشور؛ ...",
+      "url": "https://khabarfarsi.com/u/263790484",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "0161a9e92e9c9da0",
+      "title": "ایستگاه هشتم؛ پتروشیمی فن آوران",
+      "url": "https://khabarfarsi.com/u/263789630",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "3c7b59872dda95f2",
+      "title": "خبر گزاری پتروشیمی ایران ایپنا",
+      "url": "https://khabarfarsi.com/u/263805286",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "953a1311812585ef",
+      "title": "بانک شهر از بازسازی و توسعه پتروشیمی جم حمایت می کند",
+      "url": "https://khabarfarsi.com/u/263786760",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "72c836f1965f804b",
+      "title": "کنفرانس اطلاع رسانی شاراک ؛ از وضعیت خوراک و صادرات تا پیشرفت پروژه اتانول ...",
+      "url": "https://khabarfarsi.com/u/263777362",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "6e91938c6dafd341",
+      "title": "آخرین اقدامات پتروشیمی اصفهان جهت رفع موانع خروج از تابلوی پایه",
+      "url": "https://khabarfarsi.com/u/263775361",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "1eea372207b4886d",
+      "title": "اقدام عملی بانک شهر برای حمایت از بازسازی و توسعه پتروشیمی جم",
+      "url": "https://khabarfarsi.com/u/263773566",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "fdd894fda63cb603",
+      "title": "جوابیه شرکت پتروشیمی شیمی بافت در خصوص خبر منتشرشده با موضوع مطالبات و ...",
+      "url": "https://khabarfarsi.com/u/263766640",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "eab3d46ceff1d399",
+      "title": "واگذاری پتروشیمی آبادان؛ فرصت احیای یک مجتمع صنعتی با ظرفیت های توسعه",
+      "url": "https://khabarfarsi.com/u/263762371",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "a1ade06f91a421a3",
+      "title": "افزایش قیمت مواد پتروشیمی برای ملزومات مصرفی پزشکی",
+      "url": "https://khabarfarsi.com/u/263761310",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "09a3e581e0ec75bf",
+      "title": "کیفیت؛ محور تعالی تولید و مزیت رقابتی پتروشیمی تبریز در بازارهای داخلی و ...",
+      "url": "https://khabarfarsi.com/u/263759168",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "0c54493d8e7b542c",
+      "title": "گام جدید پتروشیمی جم در ارتقای واحد الفین از طریق تکنولوژی های چینی / ...",
+      "url": "https://khabarfarsi.com/u/263755075",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    },
+    {
+      "id": "7f288968978d1196",
+      "title": "مناقصه عمومی اجرای دیوارهای حائل بتنی (فاز اول) در سایت پروژه PDH/PP ...",
+      "url": "https://khabarfarsi.com/u/263754923",
+      "discovery_source": "خبر فارسی",
+      "tags": [
+        "شرکت پتروشیمی"
+      ],
+      "publisher_url": "",
+      "published_at": "",
+      "summary": "",
+      "first_seen": "2026-11-14T20:45:00+00:00",
+      "last_seen": "2026-11-14T20:45:00+00:00"
+    }
+  ]
 }
